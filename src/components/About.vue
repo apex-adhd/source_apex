@@ -12,18 +12,20 @@
 			<div class="box">
 				<div class="h3">Rachel Kottkamp, BSN RN</div>
 				<p>
-			Rachel Kottkamp is a Registered Nurse who specializes in ADHD management, psychology, and personal development training. As a result of the 
-			clinical health training she received through the CCNE Accredited Nursing Program at California State University San Bernardino, Rachel has 
-			a thorough understanding of the biology behind ADHD symptoms. She is able to use this knowledge to help her clients develop strategies that 
+			Rachel Kottkamp is a Registered Nurse Coach who specializes in ADHD management, psychology, and personal development training.  
+			Rachel has a thorough understanding of the biology behind ADHD symptoms, through clinical health training she received through the 
+			CCNE Accredited Nursing Program at California State University San Bernardino.
+			She is able to use this knowledge to help her clients develop strategies that 
 			maximize on their brain's strengths and unique capabilities.
 			<br><br>
 			Rachel also has extensive personal coaching experience. She has worked one-on-one with clients to create transformational breakthroughs in 
 			all areas of their lives. Years after working with Rachel, her clients report experiencing extraordinary accomplishments at work, home, and 
 			in their interactions with others by using the very strategies she helped them develop. 
 			<br><br>
-			With over 12 years of improvisational training through CSZ LA, Rachel brings a quick, energetic, and fun approach to her coaching. She has 
+			With over 13 years of improvisational training through CSZ LA, Rachel brings a quick, energetic, and fun approach to her coaching sessions, 
+			workshops, and public speaking events. She has 
 			developed and directed team building exercises for people of all walks of life, from USC medical students to Nike executives. Her clients leave 
-			excited to apply new skills in communication, commitment, and problem solving to their specific ambitions and needs.
+			her trainings excited to apply new skills in communication, commitment, and problem solving to their specific ambitions and needs.
 				</p>
 			</div>
 		</div>

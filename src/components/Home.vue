@@ -119,9 +119,9 @@
 						<img src="../assets/img/StockSnap_NAOWFGI5EF.jpg" class="img-responsive" alt>
 					</a>
 					<div class="portfolio-caption">
-						<h4>How Do I Help My ADHD Students?</h4>
+						<h4>I Feel So Scattered Lately! but I Don’t Have ADHD Program</h4>
 						<p class="text-muted">
-							Having trouble connecting with your ADHD students? Feel like you are not teaching them in a way that works with their brain?				
+							Feeling more scattered and distracted lately? Don’t have ADHD but still want help to feel more focused in your day to day life?				
 						</p>
 					</div>
 				</div>
@@ -263,18 +263,19 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>My Home is Chaos!</h2>
+								<h4><i>6 Month Program - Tuition: $3500</i></h4>
                                 <p class="item-intro text-muted">
 								Many adults with ADHD are able to have successful careers because of the structure of work 
-								environments but come home a feel overwhelmed by the complete lack of structure they have at home.
+								environments but come home and feel overwhelmed by the complete lack of structure they have at home.
 								In this coaching program, you will:
 								</p>
 								<ul class="left-align-list">
-									<li>Declutter and re-organize and KEEP it clean!</li>
-									<li>Create personalized home organization systems that are simple and easy</li>
-									<li>Make easy meal plans for you and your family</li>
+									<li>Declutter your home and KEEP it clean!</li>
+									<li>Create personalized home organization systems that are simple and easy to maintain</li>
 									<li>Learn ways to get everything on your to do list done</li>
 									<li>Make your least favorite chores (like Laundry, Bill Paying, Dishes etc) less time consuming and boring</li>
 									<li>Have more time for the hobbies and activities that are important to you (Time with Friends, Exercise, Reading)</li>
+									<li>Make easy meal plans for you and your family</li>
 									<li>Stay motivated and get more done during your days off!</li>
 									<li>Gain self trust and self confidence to be in control of your home and the time you spend there!</li>
 								</ul>
@@ -301,12 +302,13 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>HELP! Get Me Through This Exam! Package</h2>
+								<h4><i>1-3 Month Program (Depending on Exam Date) - Tuition: $800</i></h4>
                                 <p class="item-intro text-muted">
-								We will give you the tools and strategies to study more in less time! Learn how to study for your ADHD 
-								brain and have the support to stay on track with your studying. We’ve helped doctors and nurses study for 
-								licensing exams, high school and college students study for impossible final exams, and even have worked with 
-								students to prepare them for driver’s tests. While getting her nursing license, Rachel mastered studying and taking 
-								exams and will help you be able to do it too! In this coaching program you will:
+								We will give you the tools and strategies to study more in less time! Learn how to study for 
+								your ADHD brain and have the support to stay on track with your studying. We’ve helped doctors 
+								and nurses study for licensing exams, high school and college students study for impossible final 
+								exams, and even have worked with students to prepare them for driver’s tests. In this coaching program
+								you will:
 								</p>
 								<ul class="left-align-list">
 									<li>Create personalized study strategies to help you get the most out of your study time!</li>
@@ -337,24 +339,23 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>HELP! Get Me Through This Exam! Package</h2>
+                                <h2>Find a Job and Keep it Package</h2>
+								<h4><i>4 Month Program - Tuition: $3200</i></h4>
                                 <p class="item-intro text-muted">
-								With ADHD it can be hard for you to sit and focus long enough to apply for the job you really want. Other things 
-								keep getting in the way or you there are too many pieces to keep track of. And as many adults with ADHD know once 
-								you find a job, it’s an even bigger challenge to keep it! With this package, we guide you through the job hunt and 
-								interview process and then help you transition into your new job. We will identify the biggest challenges that come 
-								up for you at your new job so you can start your new job on the right foot!
+								With ADHD it can be hard for you to sit and focus long enough to apply for the job you really want. 
+								And as many adults with ADHD know once you find a job, it’s an even bigger challenge to keep it!
 								In this coaching program you will:
 								</p>
 								<ul class="left-align-list">
 									<li>Learn tools to make writing resumes, cover letters, and applications easy and less time consuming!</li>
 									<li>Have the accountability to stay focused during your job hunt</li>
 									<li>Practice interview skills so you can walk in calm and confident</li>
-									<li>Gain experience with networking to make it easy and painless</li>
+									<li>Gain experience with networking to make it simple and painless</li>
 									<li>Identify challenges at your new job so that they don’t get in the way of your success</li>
-									<li>Be able to get to work on time and manage your time while at work</li>
+									<li>Get to work on time and manage your time while at work</li>
 									<li>Maximize your efficiency at work</li>
 									<li>Have the support you need to master your new job</li>
+									<li>Be guided through the job hunt and interview process and then get the help you need to transition into your new job</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
@@ -379,22 +380,19 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Learn How to Support Your ADHD Family Member Package</h2>
+								<h4><i>3 Month Program - Tuition $2500</i></h4>
+								<h5 class="left-align-list">This program can also be done in conjunction with any of our other programs for a tuition price of $600 a month</h5>
+								<h6 class="left-align-list">We also offer On Call Coaching for family members who want unlimited one on one training calls for their 
+								family member as well as correspondence with their loved ones coach for a tuition of $5000 a month
+								</h6>
                                 <p class="item-intro text-muted">
-									We have worked with many parents and spouses who have felt exhausted, confused, and helpless because they don’t 
-									know how to help their child or loved ones’ manage their symptoms. We know it can also be frustrating when your 
-									loved one doesn’t seem to want your help or is unwilling to change habits to help them manage their ADHD symptoms. 
-									This program is designed to teach you everything about ADHD while also helping you learn tools and strategies to 
-									move your loved one with their goals. When you are able to understand your loved ones brain, it drastically changes 
-									the quality of your relationship and your ability to make a real difference for them daily! 
-									<br>OR<br>
-									It can be very exhausting to feel like you are unable to completely understand your loved one and give them the support 
-									they need. Especially when they are not ready to get the help that you see that they need. With so many resources and 
-									articles about ADHD, it can be overwhelming to go through it all and try to identify what actually applies to your family 
-									member. We use our coaching experience from working with ADHD clients, to teach you all about the science behind ADHD and 
-									its symptoms. And because you’ll be working with a coach, we give you personalized strategies based on your loved one’s 
-									specific needs and challenges to help you give them the assistance that will make the biggest difference for them.
-									In this coaching program, you will:
-									
+									It can be very exhausting to feel like you are unable to completely understand your loved one and give 
+									them the support they need. Especially when when your loved one doesn’t seem to want your help or is 
+									unwilling to change habits to help them manage their ADHD symptoms. We use our coaching experience from 
+									working with ADHD clients, to teach you all about the science behind ADHD and its symptoms. And because 
+									you’ll be working with a coach, we give you personalized strategies based on your loved one’s specific 
+									needs and challenges to help you give them the assistance to keep them moving
+									forward towards their goals. In this coaching program, you will:
 								</p>
 								<ul class="left-align-list">
 									<li>Learn about the science behind ADHD and its symptoms</li>
@@ -402,7 +400,7 @@
 									<li>Distinguish what behaviors are ADHD related and understand why they are happening</li>
 									<li>Create personalized strategies to support your loved one in dealing with their challenges and reaching their goals</li>
 									<li>Have support from a coach that understands the challenges of ADHD</li>
-									<li>Improve your communication style with your loved one</li>
+									<li>Improve your communication with your loved one</li>
 									<li>Build your relationship with your family member from a place of understanding and continued growth</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -427,25 +425,33 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>How Do I Help My ADHD Students?</h2>
+                                <h2>I Feel So Scattered Lately! but I Don’t Have ADHD Program</h2>
+								<h4><i>3 Months - Tuition: $2400</i></h4>
                                 <p class="item-intro text-muted">
-									As a teacher, it can be frustrating to feel like you don’t have the tools to help your students with ADHD succeed. 
-									With 11% of students between 4-17 having ADHD, more and more teachers need to be taught the tools to help these 
-									students succeed. We’ll teach you the strategies that we use to help our ADHD clients succeed in school! You’ll be 
-									able to use tools and strategies to help your students while not feeling like you have to completely halt your 
-									classroom to do it.<br>
+									With so many choices and distractions in our lives, a lot more people have started referring to 
+									themselves as feeling scattered or ADD all of sudden. An official diagnosis ADHD starts showing 
+									signs and symptoms in childhood, however we’ve found that the tools and coaching we provide to 
+									our ADHD adults and teens can also help people who have not officially been diagnosed with ADHD. 
+									Using coaching based in neuroscience, we’ll teach you how the brain works most effectively and how 
+									to simplify your life so you can feel more focused and productive in life whether or not you have ADHD!*
+									<br>
 									In this coaching program, you will:
 									
 								</p>
 								<ul class="left-align-list">
-									<li>Learn tools and strategies to help ADHD students perform better in your class</li>
-									<li>Be able to communicate more effectively with your students</li>
-									<li>Distinguish symptoms that are not commonly known to be associated with ADHD</li>
-									<li>Understand what behaviors are ADHD related and understand why they are happening</li>
-									<li>Create personalized skills to make learning more engaging and stimulating for your students</li>
-									<li>Gain knowledge about neuroscience to help all of your students absorb information faster</li>
-								
-								</ul>
+									<li>Learn how to effectively use your brain to get more done throughout your week</li>
+									<li>Get personalized tools and strategies to increase your effectiveness</li>
+									<li>Feel less scattered and distracted</li>
+									<li>Have support from a coach that understands the neuroscience behind maximizing your brain’s potential</li>
+									<li>Be able to manage all of your commitments</li>
+									<li>Get more done on your daily to do lists!</li>
+									<li> Set short term and long term goals so you can finally feel like you are moving forward!</li>
+								</ul>	
+								<p class="text-muted left-align-list">
+									*No diagnosis or medical advice can be given by Apex ADHD. We are only a training and coaching organization. 
+									If you would like an official medical diagnosis or think you may have ADHD and would like more medical 
+									information please contact your medical professional
+								</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
                         </div>
@@ -469,21 +475,22 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Lose Weight and Keep It Off</h2>
+								<h4><i>6 Months - Tuition: $3000</i></h4>
                                 <p class="item-intro text-muted">
-									Losing weight is a tough task for anyone, but with ADHD there are so many additional challenges that make it even
-									harder! With a coach to support you through your weight loss journey, you’ll learn the tools and strategies to 
-									overcome your unique challenges so that you can feel confident in keeping off the weight after your program is over.
+									Losing weight is a tough task for anyone, but with ADHD there are additional challenges that make it 
+									even harder! With a coach to support you through your weight
+									loss journey, you’ll learn the tools and strategies to overcome your unique challenges so that you can feel 
+									confident in keeping off the weight after your program is over.
 									<br>
 									In this program, you will:
-									
 								</p>
 								<ul class="left-align-list">
 									<li>Fight off impulsive eating and curb cravings</li>
 									<li>Create an exercise plan that you can actually follow through on</li>
-									<li>Lose weight in a way that will keep off the weight once you have lost it instead of having it be a temporary quick fix</li>
+									<li>Lose weight in a way that will keep the weight off once you have lost it instead of having it be a temporary quick fix</li>
 									<li>Learn about nutrition that helps with weight loss AND reducing ADHD symptoms</li>
 									<li>Have the accountability you need to lose the weight!</li>
-									<li>Build your self confidence and trust to know that you have the ability to keep that weight off for good!</li>
+									<li>Build your self confidence so you can trust yourself to keep that weight off for good</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
@@ -508,13 +515,14 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>I’m About to Have a BIG Change (Pregnancy, Moving, Starting a New Career or College, Marriage, Divorce etc)</h2>
+								<h4>6 Months - Tuition: $3500</h4>
                                 <p class="item-intro text-muted">
-									Transitions are especially tough when you have ADHD because of how your brain perceives change. This package will 
-									help you learn to manage the overwhelm that can come with these changes and create personalized strategies to help 
-									you adapt to the big changes happening in your life.
-									<br>
+								Transitions are especially tough when you have ADHD because your brain
+								perceives change differently. This program will help you learn to manage 
+								the overwhelm that can come with these changes and create personalized 
+								strategies to help you adapt to the big changes happening in your life.
+								<br>
 									In this program, you will:
-									
 								</p>
 								<ul class="left-align-list">
 									<li>Learn tools to stay calm in the midst of big life changes</li>
@@ -522,7 +530,7 @@
 									<li>Simplify your life so that you can get everything on your to do list done</li>
 									<li>Create new personalized routines and systems to keep your life moving forward</li>
 									<li>Find ways to still have time for the hobbies and activities that are important to you (Time with Friends, Exercise, Reading)</li>
-									<li>Have consistency to throughout your week to stay so that life doesn’t feel like it’s spinning out of control</li>
+									<li>Create consistency even in the middle of constantly changing schedule</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
@@ -547,15 +555,13 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>I Need to Get Through This Semester!</h2>
+								<h4><i>3-6 Months Depending on Your Semester Length - Tuition: $800 per month</i></h4>
                                 <p class="item-intro text-muted">
-									Juggling several classes for an entire semester can be extremely difficult when you have ADHD. We give you the tools 
-									you need to start your classes on the right foot and stay motivated throughout the entire semester so you can have 
-									the grades you can be proud of by the end! And Nursing and Medical students; as Registered Nurse, Rachel understands 
-									the additional struggles of having clinicals and internships while trying to complete assignments and classes and is 
-									the expert you need to learn how to manage the increased challenges these programs can present.
+									Juggling several classes for an entire semester can be extremely difficult when you have ADHD. We give 
+									you the tools you need to start your classes on the right foot and stay motivated throughout the entire 
+									semester so you can have the grades you can be proud of by the end!
 									<br>
-									In this program, you will:
-									
+									In this program, you will:		
 								</p>
 								<ul class="left-align-list">
 									<li>Create a roadmap for your entire semester so that you stay ahead of your classes instead of falling behind</li>
@@ -566,7 +572,14 @@
 									<li>Manage distractions and increase your focus while studying</li>
 									<li>Have more time for the hobbies and activities that are important to you (Time with Friends, Exercise, Reading)</li>
 									<li>Be able to learn how to get household chores done quicker for our college students living on their own!</li>
-									<li>Build your confidence before Finals!</li>									
+									<li>Build your confidence before Finals!</li>
+									<li><strong>For College Students</strong>​ Learn how to balance the obligations of living on your own (shopping, 
+									chores, paying rent) on top of balancing your classes
+									</li>
+									<li><strong>Nursing and Medical Students</strong>-​ as a Registered Nurse, Rachel understands the additional 
+									struggles of having clinicals and hospital preceptorships while trying to complete assignments and classes 
+									and is the expert you need to learn how to manage the increased challenges these programs can present.									
+									</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
@@ -591,6 +604,7 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>I’m Going to Lose My Job if I Don’t Get Organized</h2>
+								<h4><i>3 Months - Tuition: $2400</i></h4>
                                 <p class="item-intro text-muted">
 									We know it can be frustrating to feel like you’re not living up to the potential you know you are capable of at work. 
 									Whether it’s getting to work on time, staying on top of expense reports, or building your confidence with your boss 
@@ -606,7 +620,7 @@
 									<li>Be able to get to work on time and manage your time while at work</li>
 									<li>Maximize your efficiency at work</li>
 									<li>Manage distractions and increase your focus while at work</li>
-									<li>Increase your confidence while talking to your boss and coworkers</li>
+									<li>Increase your confidence when talking to your boss and coworkers</li>
 									<li>Bring less work home with you so that you can enjoy your days off!</li>
 									<li>Practice skills for work reviews and meetings to showcase your talents and get the raises and promotions you deserve!</li>
 								</ul>
@@ -632,21 +646,22 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Find Love in the Middle of a Scattered and Busy Life (3 months?)</h2>
+                                <h2>Find Love in the Middle of a Scattered and Busy Life</h2>
+								<h4>3 Months - Tuition: $2400</h4>
                                 <p class="item-intro text-muted">
 									Dating with ADHD comes with it’s own unique challenges! This package gives you the tools to identify ADHD 
-									specific challenges you faced in the past with dating while making dating simple so that you can start dating 
+									specific challenges you have faced in the past with dating while making dating simple so that you can start dating 
 									again with confidence and have the tool to find the love of your life!
 									<br>
 									In this program, you will:
 								</p>
 								<ul class="left-align-list">
 									<li>Identify past challenges you’ve had with dating specifically related to ADHD</li>
-									<li>Start to heal and get closure with past heartache</li>
+									<li>Start to heal and get closure from past heartache</li>
 									<li>Get to the bottom of why you always pick certain partners</li>
 									<li>Learn what are you are <strong>really</strong> looking for in a partner</li>
 									<li>Get that kick in the butt you need to get off the couch and go on dates!</li>
-									<li>Reduce the overwhelm that come when using dating apps (like Bumble and Tinder)</li>
+									<li>Reduce the overwhelm that you experience when using dating apps (like Bumble and Tinder)</li>
 									<li>Simplify dating so it doesn’t feel like it takes up all of your time and energy</li>
 									<li>Have freedom from drama free relationships!</li>
 									<li>Gain the confidence to not settle for a sub par relationship</li>
@@ -674,7 +689,8 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>I Am So Tired of Drama in All My Relationships! Help Me Communicate!!! </h2>
+                                <h2>I Am So Tired of Drama in All My Relationships! Help Me Communicate! </h2>
+								<h4><i>3 Months - Tuition: $2400</i></h4>
                                 <p class="item-intro text-muted">
 									This package will teach you how to communicate in completely new ways so that you can finally feel heard and 
 									understood by the people who are most important to you.
@@ -715,6 +731,7 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>I Wish I Didn’t Have This Specific ADHD Symptom </h2>
+								<h4><i>3-6 Months Depending on Symptom - Tuition: $800 per month</i></h4>
                                 <p class="item-intro text-muted">
 									Have a specific ADHD symptom that creates challenges in all the areas of your life? These symptoms could include: 
 									Time Management, Impulsivity, Hyper, Trouble Focusing, Distractibility, Forgetfulness, Always Late, Trouble Following 
@@ -731,7 +748,7 @@
 									<li>Get more done throughout your day</li>
 									<li>Become more productive in every area of your life!</li>
 									<li>See results and breakthroughs in every area of your life affected by your symptom </li>
-									<li>Gain the trust of yourselves and others by mastering your symptom</li>
+									<li>Gain the trust of yourself and others by mastering your symptom</li>
 								</ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
