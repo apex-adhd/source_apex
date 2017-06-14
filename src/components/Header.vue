@@ -13,7 +13,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand apex-brand" href="index.html">Apex ADHD
+                <a class="navbar-brand apex-brand" href="index.html"><!-- Apex ADHD -->
+				<img src="../assets/img/18136173_10155306264329549_105507785_n-compressor.svg" class="brand-image" alt/>
 				</a>
             </div>
 
@@ -30,9 +31,6 @@
                         <router-link to="/about">About</router-link>
                     </li>
                     <li>
-                        <router-link to="/packages">Packages</router-link>
-                    </li>
-                    <li>
                         <router-link to="/contact">Contact</router-link>
                     </li>
                 </ul>
@@ -47,6 +45,37 @@
 	
 </template>
 <style>
+.brand-image{
+	width:80%;
+	height:100%;
+
+}
+
+@media(min-width:768px){
+	.navbar-header{
+		width:60%;
+	}
+}
+
+
+.navbar-brand.apex-brand{
+	width:40%;
+	height: auto;
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+@media (max-width:768px){
+	.brand-image{
+		width:150px;
+		height:75px;
+	}
+	button.navbar-toggle{
+		margin-top:35px;
+	}
+}
 /*
 .navbar-custom{
 	padding:0;

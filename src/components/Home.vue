@@ -1,7 +1,7 @@
 <template>
 <div id="homePage">
 	<header>
-        <div class="container">
+        <div class="container-fluid">
 			<div class="row">
 				<div class="intro-lead-in text-center home-header">Providing one-on-one coaching, group training, and ADHD awareness around the world!</div>
 				<div class="intro-text">
@@ -14,7 +14,7 @@
 						goals DURING the coaching session!
 					</div>
 					<div class="intro-action col-lg-6">
-						<router-link to="/contact" class="btn-action btn btn-xl">Contact Us for a <br> Free 1 Hour Coaching Session</router-link>
+						<router-link to="/contact" class="btn-action btn btn-xl">Contact Us <br> Free 1 Hour <br> Coaching Session</router-link>
 					</div>			
 				</div>
 			
@@ -788,6 +788,12 @@
 	
 	.home-header{
 		margin-top:15%;
+	}
+	
+	@media(max-width:768px){
+		.home-header{
+			margin-top:20%;
+		}
 	}
 	
 	.program-header{
