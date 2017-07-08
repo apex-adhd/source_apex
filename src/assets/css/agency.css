@@ -6,13 +6,18 @@
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background:black;
+  background:#f7f5e6;
 }
 .text-muted {
-  color: #777777;
+  color: white;
 }
+
+.item-intro.text-muted{
+  color: #777;
+}
+
 .text-primary {
-  color: #fed136;
+  color: #f7f5e6 /*#fed136*/;
 }
 p {
   font-size: 14px;
@@ -29,13 +34,13 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #f7f5e6 /*#fed136*/;
 }
 a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #fec503;
+  color: #f7f5e6 /*#fec503*/;
 }
 h1,
 h2,
@@ -47,6 +52,17 @@ h6 {
   text-transform: uppercase;
   font-weight: 700;
 }
+
+.portfolio-caption h4,
+h3.intro-contact,
+p.intro-contact{
+	color: #f7f5e6;
+}
+
+p.intro-contact{
+	font-size:16px;
+}
+
 .img-centered {
   margin: 0 auto;
 }
@@ -58,8 +74,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #52658F; /*#fed136;*/
+  border-color: #52658F; /*#fed136;*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -70,8 +86,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  background-color: #333a56; /*#fec503;*/
+  border-color: #333a56; /*#f6bf01;*/
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -148,7 +164,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: white;
 }
 .navbar-custom {
-  background-color: #337ab7;
+  background-color: #52658F /*#337ab7*/;
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
@@ -159,14 +175,14 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #fec503;
+  color: #f7f5a9;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #f7f5a9;
+  border-color: #f7f5a9;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
@@ -174,7 +190,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: #f7f5a9;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -185,13 +201,13 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #fed136;
+  color: #f7f5a9;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #fed136;
+  background-color: #f7f5a9;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
@@ -200,7 +216,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    background-color: #337ab7;
+    background-color: #52658F/*#337ab78*/;
     padding:  0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
@@ -219,7 +235,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #337ab7;
+    background-color: #52658F /*#337ab7*/;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
@@ -236,7 +252,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;*/
-  color: white;
+  color: #333a56;
 }
 header .intro-text {
   padding-top: 100px;
@@ -314,7 +330,7 @@ section h3.section-subheading {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
-  background: #337ab7;
+  background: #333a56/*#337ab7*/;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -346,7 +362,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption {
   max-width: 400px;
   margin: 0 auto;
-  background-color: white;
+  background-color: #52658F;
   text-align: center;
   padding: 25px;
 }

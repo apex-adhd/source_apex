@@ -1,39 +1,63 @@
 <template>
-<div>
-	<header>
-        <div class="container">
-			<div class="intro-lead-in text-center" style="margin-top:7%;"></div>
-            <div class="intro-text">
-            </div>
-			
-        </div>
-    </header>
+<div class="home-header">
 	<div class="row">
-		<div class="box" style="text-align:left;">
-			<h2>Contact Us</h2>
-			<a href="mailto:betsy.kottkamp@gmail.com">Email Us!</a>
-
-			<el-form ref="form" :model="form" label-position="top" label-width="120px">
-			  <el-form-item label="Phone Number">
-				<el-input v-model="form.number"></el-input>
-			  </el-form-item>
-			  <el-form-item label="Email">
-				<el-input v-model="form.email"></el-input>
-			  </el-form-item>
-			  <el-form-item label="Additional Information">
-				<el-input type="textarea" v-model="form.additional"></el-input>
-			  </el-form-item>
-			  <el-form-item>
-				<el-button type="primary" @click="sendEmail()">Send Message</el-button>
-				<el-button>Cancel</el-button>
-			  </el-form-item>
-			</el-form>
+		<div class="box contact-box" >
+			<div class="col-md-7">
+				<div class="h2 intro-contact">Contact Us</div>
+				<p class="intro-contact">Get a <strong>FREE</strong> 1 hour coaching session from anywhere in the world!</p>
+				<p class="intro-contact">
+					<div class="row">
+						<div class="col-xs-5" style="color:white; font-size:16px;">
+							<i class="fa fa-envelope"></i>
+							&nbsp;Email Us:
+						</div>
+						<div class="col-xs-6">
+							<a href="mailto:apex-adhd@gmail.com">apex-adhd@gmail.com</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-5" style="color:white; font-size:16px;">
+							<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;Call Us:
+						</div>
+						<div class="col-xs-6">
+							<a href="tel:909-262-8716">(909) 262-8716</a>
+						</div>
+					</div>							
+				</p>			
+			</div>
+<!--			<div class="col-md-5">
+				<div class="indent">
+					<i class="fa fa-quote-left"></i>
+					<i class="h4">I worked with Rachel and she was a godsend! I can't believe how in control I feel about with my ADHD now. I'd recommend Rachel to anyone who I know going through a tough time</i>
+					<i class="fa fa-quote-right"></i>
+				</div>
+			</div> -->
 		</div>
 
 	</div>
 </div>	
 </template>
-<style></style>
+<style>
+	.home-header{
+		margin-top:15%;
+	}
+	
+	@media(max-width:768px){
+		.home-header{
+			margin-top:115px;
+		}
+	}
+
+	.box.contact-box{
+		text-align: left;
+		background: #333a56;
+		color:white;
+	}
+	
+	.indent{
+		padding-left:15px;
+	}
+</style>
 <script>
 	import '../assets/js/smtp.js'
 	import $ from 'jquery'
