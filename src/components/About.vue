@@ -36,7 +36,13 @@
 
 </div>
 </template>
-<style scoped></style>
+<style scoped>
+	.section-heading{
+	    font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+	}
+</style>
 <script>
 	export default{
 		data(){

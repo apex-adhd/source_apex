@@ -12,10 +12,10 @@ import './assets/css/business-casual.css'
 import './assets/css/agency.css'
 
 
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-default/index.css'
+//import ElementUI from 'element-ui'
+//import 'element-ui/lib/theme-default/index.css'
 
-Vue.use(ElementUI)
+//Vue.use(ElementUI)
 
 import jQuery from 'jquery'
 global.jQuery = jQuery
