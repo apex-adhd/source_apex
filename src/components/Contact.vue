@@ -4,7 +4,7 @@
 		<div class="box contact-box" >
 			<div class="col-md-7">
 				<div class="h2 intro-contact">Contact Us</div>
-				<p class="intro-contact">Get a <strong>FREE</strong> 1 hour coaching session from anywhere in the world!</p>
+				<p class="intro-contact">Get my <strong>FREE</strong> 1 hour coaching session from anywhere in the world!</p>
 				<p class="intro-contact">
 					<div class="row">
 						<div class="col-xs-5" style="color:white; font-size:16px;">
@@ -12,7 +12,7 @@
 							&nbsp;Email Us:
 						</div>
 						<div class="col-xs-6">
-							<a href="mailto:apex-adhd@gmail.com">apex-adhd@gmail.com</a>
+							<a href="mailto:apexadhd@gmail.com">apexadhd@gmail.com</a>
 						</div>
 					</div>
 					<div class="row">
@@ -22,8 +22,8 @@
 						<div class="col-xs-6">
 							<a href="tel:909-262-8716">(909) 262-8716</a>
 						</div>
-					</div>							
-				</p>			
+					</div>
+				</p>
 			</div>
 <!--			<div class="col-md-5">
 				<div class="indent">
@@ -35,13 +35,13 @@
 		</div>
 
 	</div>
-</div>	
+</div>
 </template>
 <style>
 	.home-header{
 		margin-top:15%;
 	}
-	
+
 	@media(max-width:768px){
 		.home-header{
 			margin-top:115px;
@@ -53,7 +53,7 @@
 		background: #333a56;
 		color:white;
 	}
-	
+
 	.indent{
 		padding-left:15px;
 	}

@@ -10,9 +10,9 @@
 			</div>
 			<div class="col-sm-offset-2 col-sm-8">
 				<div class="h4 program-header" >
-					Our 3-6 month programs are focused on helping you achieve the goal that is MOST important
-					to you! You will also learn valuable skills to manage your ADHD in every area of your life.
-					You will also transition into being able to evaluate and coach YOURSELF!
+					Our 3-6 month programs are focused on helping you achieve the goal that is MOST important to you! 
+					While working on your top goal, you will learn about the science behind ADHD gaining skills to help 
+					you manage your ADHD in every area of your life. You will also transition into being able to evaluate and coach YOURSELF!
 				</div>
 			</div>
 			<div class="row">

@@ -15,13 +15,21 @@
 			{{programDescription}}
 			</p>
 		</div>
-		<div :href="createHref()" data-toggle="modal" class="portfolio-learn-more">
-			<a >
-			<i class="fa fa-plus"></i>&nbsp; Learn More
-			</a>
+		<div>
+			<button :href="createHref()" data-toggle="modal" class="portfolio-learn-more">
+				<a >
+				<i class="fa fa-plus"></i>&nbsp; Learn More
+				</a>
+			</button>		
 		</div>
+
 	</div>
 </template>
+<style scoped>
+	button.portfolio-learn-more{
+		width:100%;
+	}
+</style>
 <script>
 
 export default{
@@ -33,7 +41,6 @@ export default{
 	},
 	methods:{
 		createHref(){
-			console.log(this.hrefTag);
 			return '#'+this.hrefTag;
 		}
 	}	
